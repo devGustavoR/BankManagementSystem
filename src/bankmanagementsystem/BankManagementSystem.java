@@ -41,7 +41,7 @@ public class BankManagementSystem {
             String CPF = select.next();
             c1.setCpf(CPF);
             
-            int number = random.nextInt(20);
+            int number = random.nextInt(400);
             System.out.print(number);
             
         } 
